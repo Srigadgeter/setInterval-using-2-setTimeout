@@ -1,0 +1,1 @@
+# `setInterval` using two `setTimeout`
